@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\Arquitetura\bin\Debug\net5.0\Arquitetura.exe
+C:\Users\andre\source\repos\Arquitetura\bin\Debug\net5.0\Arquitetura.deps.json
+C:\Users\andre\source\repos\Arquitetura\bin\Debug\net5.0\Arquitetura.runtimeconfig.json
+C:\Users\andre\source\repos\Arquitetura\bin\Debug\net5.0\Arquitetura.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Arquitetura\bin\Debug\net5.0\Arquitetura.dll
+C:\Users\andre\source\repos\Arquitetura\bin\Debug\net5.0\ref\Arquitetura.dll
+C:\Users\andre\source\repos\Arquitetura\bin\Debug\net5.0\Arquitetura.pdb
+C:\Users\andre\source\repos\Arquitetura\obj\Debug\net5.0\Arquitetura.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Arquitetura\obj\Debug\net5.0\Arquitetura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Arquitetura\obj\Debug\net5.0\Arquitetura.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Arquitetura\obj\Debug\net5.0\Arquitetura.AssemblyInfo.cs
+C:\Users\andre\source\repos\Arquitetura\obj\Debug\net5.0\Arquitetura.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Arquitetura\obj\Debug\net5.0\Arquitetura.dll
+C:\Users\andre\source\repos\Arquitetura\obj\Debug\net5.0\ref\Arquitetura.dll
+C:\Users\andre\source\repos\Arquitetura\obj\Debug\net5.0\Arquitetura.pdb
+C:\Users\andre\source\repos\Arquitetura\obj\Debug\net5.0\Arquitetura.genruntimeconfig.cache
